@@ -1,0 +1,1 @@
+FLAG{GIT_IS_FUN}
